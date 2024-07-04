@@ -1,8 +1,13 @@
 ## MedicalKidney-backend Project 
 
-- Its a mini project containing data about kidneys of the user.
+### Overview
+- Its a mini project that helps medical workers to insert data about patient kidneys (users).
+### Features :-
+**User Registration :** Users can sign up by providing essential information, including a unique username, password, and kidney information
 
+**Validation :** The username should be a email and password should have min 6 char.
 
+**kidney Database :** It basically stores all your information about user kidneys if heathy or unhealthy.
 ## Info about routes:-
 ### Routes :-
 
